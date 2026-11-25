@@ -2,7 +2,7 @@
 
 Это учебный проект, демонстрирующий навыки создания REST API на FastAPI с использованием PostgreSQL, JWT-авторизации и миграций.
 
-![Swagger](swagger.png)
+![Swagger](images/swagger.png)
 
 ## 🛠 Стек технологий
 - Python 3.10+
